@@ -1,4 +1,5 @@
 // fluid.js
+alert("Hello! I am an alert box!!");
 
 function initFluidSimulation(canvas) {
   const gl = canvas.getContext("webgl");
